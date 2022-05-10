@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 3.125rem;
+}
+
+ .container {
+     text-align: center;
+     margin-top: 1.25rem;
+     
+ }
+
+ .calculator {
+     margin-top: 2.5rem; 
+     margin: auto;
+     display: inline-block;
+     background-color: antiquewhite;
+     border-radius: 0.625rem;
+     border: 0.125rem solid black;
+     padding-top: 0.375rem;
+     padding: 0.125rem;
+     
+ }
+
+ input{
+    border-radius: 0.625rem;
+    border: 0.315rem solid #000000;
+    font-size:2.125rem;
+    height: 5.675rem;
+    width: 25.625rem;
+}
+
+td{
+    border-radius: 0.625rem;
+    font-size: 2.625rem;
+    background: #606061;
+    width: 6.25rem;
+    height: 5.625rem;
+    margin: 0.375rem;
+    cursor: pointer;
+}
+
+
+ 
+
+ 
